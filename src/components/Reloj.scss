@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&family=Molengo&family=Montserrat:wght@100&family=Special+Elite&display=swap');
+
+
+
+.reloj {
+ 
+ background-color: #000000;
+background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+
+
+ color: whitesmoke;
+ font-family: 'Special Elite', cursive;
+ height: 30vw;
+ font-size: 1rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ padding-top: 10%;
+}
+
+.esfera{
+    @media screen {
+      font-size: 0.5rem;  
+      padding-top: 1%;
+      border-top: 3px solid whitesmoke;
+      border-right: 3px solid rgb(255, 254, 254);
+      border-bottom:3px solid rgb(248, 246, 246); 
+    }
+    
+   
+    text-align: center;
+    border: solid 3px whitesmoke;
+    border-radius: 30px;
+    height: 50%;
+    width: 50%;
+    border-top: 8px solid whitesmoke;
+    border-right: 8px solid rgb(255, 254, 254);
+    border-bottom:8px solid rgb(248, 246, 246); ;
+    & h1{
+        padding-top: 5%;
+    }
+
+}
