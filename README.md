@@ -1,3 +1,12 @@
+
+Creo un Horario , una cuenta atrás con una fecha exacta y un cronometro con 3 botones para las diferentes funciones , Start, Stope, Reset.
+
+Un juego divertido y entretenido 😊
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
