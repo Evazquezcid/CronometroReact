@@ -1,5 +1,5 @@
 
-Creo un Horario , una cuenta atrás con una fecha exacta y un cronometro con 3 botones para las diferentes funciones , Start, Stope, Reset.
+Creo un Reloj , una cuenta atrás con una fecha exacta y un cronometro con 3 botones para las diferentes funciones , Start, Stope, Reset.
 
 Un juego divertido y entretenido 😊
 
