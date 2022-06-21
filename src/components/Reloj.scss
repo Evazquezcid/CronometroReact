@@ -4,13 +4,11 @@
 
 .reloj {
  
- background-color: #000000;
-background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+
 
 
  color: whitesmoke;
  font-family: 'Special Elite', cursive;
- height: 30vw;
  font-size: 1rem;
  display: flex;
  flex-direction: column;
@@ -31,11 +29,15 @@ background-image: url("https://www.transparenttextures.com/patterns/inspiration-
     text-align: center;
     border: solid 3px whitesmoke;
     border-radius: 30px;
-    height: 50%;
-    width: 50%;
+    height: 110px;
+    width: 200px;
     border-top: 8px solid whitesmoke;
     border-right: 8px solid rgb(255, 254, 254);
-    border-bottom:8px solid rgb(248, 246, 246); ;
+    border-bottom:8px solid rgb(248, 246, 246); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     & h1{
         padding-top: 5%;
     }
